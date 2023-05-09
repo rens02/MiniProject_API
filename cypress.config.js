@@ -8,7 +8,7 @@ module.exports = defineConfig({
     time: "",
     status: "",
     msg: "",
-    email: "905128kogskl@mail.com",
+    email: "palxxcmaiii@mail.com",
     pass: "123123",
     regEmail: ""
   },
